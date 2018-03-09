@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.jpm1590.ftp.visual;
+package com.jpm1590.ftp.client;
 
 /**
  *
@@ -66,7 +66,6 @@ public class Home extends javax.swing.JFrame {
         jMenuItem5 = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setMaximumSize(new java.awt.Dimension(600, 600));
         setMinimumSize(new java.awt.Dimension(600, 600));
         setResizable(false);
         setSize(new java.awt.Dimension(600, 600));
